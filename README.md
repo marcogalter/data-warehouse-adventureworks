@@ -182,13 +182,3 @@ docker-compose logs -f airflow-webserver
 - **[Guia de Execução Completo](docs/GUIA_EXECUCAO.md)** - Instruções detalhadas
 - **[Dicionário de Dados](docs/DICIONARIO_DADOS.md)** - Descrição completa das tabelas
 
-## 👨‍💻 Autor
-
-Projeto desenvolvido para trabalho acadêmico da disciplina de Data Warehouse.
-
-**Instituição:** Unisales  
-**Ano:** 2025
-
-## 📝 Licença
-
-Este projeto é de uso acadêmico.
